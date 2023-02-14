@@ -5,7 +5,7 @@ go 1.19
 // replace github.com/tullo/otel-workshop => /home/anda/code/otel/workshop
 
 require (
-	github.com/sethvargo/go-envconfig v0.8.3
+	github.com/sethvargo/go-envconfig v0.9.0
 	github.com/tullo/otel-workshop v1.0.1
 	go.opentelemetry.io/contrib/propagators/b3 v1.14.0
 	go.opentelemetry.io/contrib/propagators/ot v1.14.0
