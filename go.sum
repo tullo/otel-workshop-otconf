@@ -38,6 +38,8 @@ go.opentelemetry.io/contrib/propagators/b3 v1.15.0 h1:bMaonPyFcAvZ4EVzkUNkfnUHP5
 go.opentelemetry.io/contrib/propagators/b3 v1.15.0/go.mod h1:VjU0g2v6HSQ+NwfifambSLAeBgevjIcqmceaKWEzl0c=
 go.opentelemetry.io/contrib/propagators/b3 v1.16.0 h1:3BuDTx8edPNwzgfrz1eOkyp3qjYmvGMwNuRNVTfj/EY=
 go.opentelemetry.io/contrib/propagators/b3 v1.16.0/go.mod h1:807emHcQNI1k9s2jMW7E3SismFpmSI0uethJZ8THQ5s=
+go.opentelemetry.io/contrib/propagators/b3 v1.16.1 h1:Y9Dk1kR93eSHadRTkqnm+QyQVhHthCcvTkoP/Afh7+4=
+go.opentelemetry.io/contrib/propagators/b3 v1.16.1/go.mod h1:IR0G6txqoetQrjjdoDGe+udhFegxnQQd0dOJfFS8Jg0=
 go.opentelemetry.io/contrib/propagators/ot v1.13.0 h1:tHWNd0WRS6w9keZoZg9aF3zYohdaBacQfojPYZJgATQ=
 go.opentelemetry.io/contrib/propagators/ot v1.13.0/go.mod h1:R6Op9T6LxNaMRVlGD0wVwz40LSsAq296CXiEydKLQBU=
 go.opentelemetry.io/contrib/propagators/ot v1.14.0 h1:jqxznjMkz/3l4NUsYq4OMbP+zs5twBbCZwSlSt82KXo=
