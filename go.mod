@@ -9,8 +9,8 @@ require (
 	github.com/tullo/otel-workshop v1.0.1
 	go.opentelemetry.io/contrib/propagators/b3 v1.16.0
 	go.opentelemetry.io/contrib/propagators/ot v1.16.0
-	go.opentelemetry.io/otel v1.15.0
-	go.opentelemetry.io/otel/sdk v1.15.0
+	go.opentelemetry.io/otel v1.15.1
+	go.opentelemetry.io/otel/sdk v1.15.1
 )
 
 require (
@@ -21,7 +21,7 @@ require (
 	go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.38.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.39.0 // indirect
 	go.opentelemetry.io/otel/metric v0.36.0 // indirect
-	go.opentelemetry.io/otel/trace v1.15.0 // indirect
+	go.opentelemetry.io/otel/trace v1.15.1 // indirect
 	go.uber.org/atomic v1.7.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	golang.org/x/sys v0.7.0 // indirect
