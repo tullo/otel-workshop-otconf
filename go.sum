@@ -48,6 +48,8 @@ go.opentelemetry.io/contrib/propagators/ot v1.15.0 h1:iBNejawWy7wWZ5msuZDNcMjBy1
 go.opentelemetry.io/contrib/propagators/ot v1.15.0/go.mod h1:0P7QQ+MHt6SXR1ATaMpewSiWlp8NbKErNLKcaU4EEKI=
 go.opentelemetry.io/contrib/propagators/ot v1.16.0 h1:W052TMH63m9Y/9ZkhtJMfXnGOIqtLhb182M42DVhAdo=
 go.opentelemetry.io/contrib/propagators/ot v1.16.0/go.mod h1:edBlwHbjkcM4ioSCky82ZvkXzL9ABwPF0sFWfz1kWuA=
+go.opentelemetry.io/contrib/propagators/ot v1.16.1 h1:3WV1I2H0UiNbisvGU6oqmrxN9Cfyk4yPkxUKiikqYyU=
+go.opentelemetry.io/contrib/propagators/ot v1.16.1/go.mod h1:8330C6LX5qEV4x/2k+RIHh7H7Bggs9d9Hs42RmsA4j0=
 go.opentelemetry.io/otel v1.13.0 h1:1ZAKnNQKwBBxFtww/GwxNUyTf0AxkZzrukO8MeXqe4Y=
 go.opentelemetry.io/otel v1.13.0/go.mod h1:FH3RtdZCzRkJYFTCsAKDy9l/XYjMdNv6QrkFFB8DvVg=
 go.opentelemetry.io/otel v1.14.0 h1:/79Huy8wbf5DnIPhemGB+zEPVwnN6fuQybr/SRXa6hM=
