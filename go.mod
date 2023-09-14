@@ -9,7 +9,7 @@ require (
 	github.com/tullo/otel-workshop v1.0.3
 	github.com/tullo/otel-workshop/web/fib v1.0.3
 	go.opentelemetry.io/contrib/propagators/b3 v1.19.0
-	go.opentelemetry.io/contrib/propagators/ot v1.18.0
+	go.opentelemetry.io/contrib/propagators/ot v1.19.0
 	go.opentelemetry.io/otel v1.18.0
 	go.opentelemetry.io/otel/sdk v1.18.0
 )
