@@ -10,7 +10,7 @@ require (
 	go.opentelemetry.io/contrib/propagators/b3 v1.21.0
 	go.opentelemetry.io/contrib/propagators/ot v1.21.1
 	go.opentelemetry.io/otel v1.21.0
-	go.opentelemetry.io/otel/sdk v1.20.0
+	go.opentelemetry.io/otel/sdk v1.21.0
 )
 
 require (
