@@ -7,7 +7,7 @@ go 1.19
 require (
 	github.com/sethvargo/go-envconfig v0.9.0
 	github.com/tullo/otel-workshop/web/fib v1.0.3
-	go.opentelemetry.io/contrib/propagators/b3 v1.21.0
+	go.opentelemetry.io/contrib/propagators/b3 v1.21.1
 	go.opentelemetry.io/contrib/propagators/ot v1.21.1
 	go.opentelemetry.io/otel v1.21.0
 	go.opentelemetry.io/otel/sdk v1.21.0
