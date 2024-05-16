@@ -5,7 +5,7 @@ go 1.22
 // replace github.com/tullo/otel-workshop => /home/anda/code/otel/workshop
 
 require (
-	github.com/sethvargo/go-envconfig v1.0.1
+	github.com/sethvargo/go-envconfig v1.0.2
 	github.com/tullo/otel-workshop/web/fib v1.0.4
 	go.opentelemetry.io/contrib/propagators/b3 v1.26.0
 	go.opentelemetry.io/contrib/propagators/ot v1.26.0
