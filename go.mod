@@ -7,7 +7,7 @@ toolchain go1.24.2
 // replace github.com/tullo/otel-workshop => /home/anda/code/otel/workshop
 
 require (
-	github.com/sethvargo/go-envconfig v1.2.0
+	github.com/sethvargo/go-envconfig v1.3.0
 	github.com/tullo/otel-workshop/web/fib v1.0.4
 	go.opentelemetry.io/contrib/propagators/b3 v1.35.0
 	go.opentelemetry.io/contrib/propagators/ot v1.35.0
