@@ -9,8 +9,8 @@ toolchain go1.27.1
 require (
 	github.com/sethvargo/go-envconfig v1.4.3
 	github.com/tullo/otel-workshop/web/fib v1.0.4
-	go.opentelemetry.io/contrib/propagators/b3 v1.46.0
-	go.opentelemetry.io/contrib/propagators/ot v1.46.0
+	go.opentelemetry.io/contrib/propagators/b3 v1.47.0
+	go.opentelemetry.io/contrib/propagators/ot v1.47.0
 	go.opentelemetry.io/otel v1.47.0
 	go.opentelemetry.io/otel/sdk v1.47.0
 )
